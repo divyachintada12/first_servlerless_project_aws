@@ -32,3 +32,4 @@ Data from the production table is then queried in Grafana, and visualizations ar
 
 ## Grafana Dashboard
 ![Grafana Dashboard](grafana_dashboard.png)
+https://divyachintada.grafana.net/d/fdnlc6n7n2j28d/warm-or-cold?orgId=1
